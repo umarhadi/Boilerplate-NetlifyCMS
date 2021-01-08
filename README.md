@@ -42,4 +42,4 @@ Nantinya akan muncul link lokal yang dapat anda akses dengan browser kesayangan 
 
 ### Tutorial Lengkap
 
-Saya sudah membuat sebuah thread seputar konfigurasi project repository Boilerplate ini pada blog pribadi saya, kunjungi link berikut untuk detailnya : [Membangun Blog Sederhana dengan GatsbyJS dan Netlify CMS](https://blog.umarhadi.xyz/membangun-blog-sederhana-dengan-gatsbyjs-dan-netlifycms)
+Saya sudah membuat sebuah thread seputar konfigurasi project repository Boilerplate ini pada blog pribadi saya, kunjungi link berikut untuk detailnya : [Membangun Blog Sederhana dengan GatsbyJS dan Netlify CMS](https://blog.umarhadi.xyz/membangun-blog-sederhana-dengan-gatsbyjs-dan-netlify-cms)
